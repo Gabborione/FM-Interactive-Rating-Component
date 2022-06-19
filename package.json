@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/Gabborione/FM-Interactive-Rating-Component#readme",
   "devDependencies": {
+    "parcel-bundler": "^1.12.5",
     "sass": "^1.52.3"
   }
 }
